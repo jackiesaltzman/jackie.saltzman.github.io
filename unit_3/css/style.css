@@ -1,7 +1,22 @@
 body {
+	
 	background-color: #C9CAD9;
-	background-image: <img src=/unit_3/images/scales_of_justice.jpg alt="Scales of Justice"
+	background-size: cover;
+	font-family: Palatino;
 }
-h1, p { 
+p { 
 	color: #7796CB;
 }
+
+h1 {color: #576490;
+
+}
+
+h2 {color: #FFFFFF;
+	font-style: italic;
+}
+
+li {
+	color: #7796CB;
+}
+
