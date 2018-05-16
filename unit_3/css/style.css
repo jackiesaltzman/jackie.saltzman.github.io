@@ -1,11 +1,16 @@
 body {
-	
+
+	text-align:center;
 	background-color: #C9CAD9;
 	background-size: cover;
 	font-family: Palatino;
 }
 p { 
 	color: #7796CB;
+}
+
+hr {
+	width: 450px;
 }
 
 h1 {color: #576490;
